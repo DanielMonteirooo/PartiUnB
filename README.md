@@ -1,4 +1,7 @@
 # PartiUnB - UnB Campus Navigator & Event Guide
+<p align="center">
+  <img src="assets/PartiUnB_Logo.jpeg" alt="Logo" width="200"/>
+</p>
 
 ## 🚀 Introduction
 
@@ -30,7 +33,12 @@ PartiUnB tackles these challenges by providing a centralized and user-friendly p
 
 ## 📱 App Screens
 
-* Later we will upload *
+<p align="center">
+  <img src="assets/mapa.png" alt="Map Image" width="200">
+  <img src="assets/calendario.png" alt="Calendar Image" width="200">
+  <img src="assets/config.png" alt="Config Image" width="200">
+  <img src="assets/perfil.png" alt="Profile Image" width="200">
+</p>
 
 ## 👥 Project Team
 
